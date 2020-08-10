@@ -11,7 +11,7 @@ How to reach me:
 
 Workshops:
 - [Production-Ready Serverless](https://homeschool.dev/class/production-ready-serverless/?utm_source=Yan&utm_medium=github) (4-week, self-paced workshop starting on Sep 1st)
-- [Production-Ready Serverless Berlin](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-88733037905?aff=Github) (2-day, intensive, in-person workshop, Oct 8th-9th)
+- [Production-Ready Serverless](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-88733037905?aff=Github) (2-day, intensive, online workshop, Oct 8th-9th)
 
 Video courses & books:
 - [Complete guide to AWS Step Functions](https://theburningmonk.thinkific.com/courses/complete-guide-to-aws-step-functions?source=github)
