@@ -14,8 +14,9 @@ Workshops:
 - [Production-Ready Serverless](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-88733037905?aff=Github) (2-day, intensive, online workshop, Oct 8th-9th)
 
 Video courses & books:
-- [Complete guide to AWS Step Functions](https://theburningmonk.thinkific.com/courses/complete-guide-to-aws-step-functions?source=github)
+- [AppSync Masterclass](https://appsyncmasterclass.com?utm_source=github)
 - [Learn you some Lambda best practice for great good!](https://theburningmonk.thinkific.com/courses/learn-you-some-lambda?source=github)
+- [Complete guide to AWS Step Functions](https://theburningmonk.thinkific.com/courses/complete-guide-to-aws-step-functions?source=github)
 - [Serverless Architectures on AWS, 2nd Edition (Manning)](https://www.manning.com/books/serverless-architectures-on-aws-second-edition?a_aid=aws-lambda-in-motion&a_bid=9318fc6f)
 - [Production-Ready Serverless (Manning)](https://www.manning.com/livevideo/production-ready-serverless?a_aid=aws-lambda-in-motion&a_bid=9318fc6f)
 
