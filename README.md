@@ -10,8 +10,7 @@ How to reach me:
 - [YouTube channel](https://www.youtube.com/user/theburntmonk)
 
 Workshops:
-- [Production-Ready Serverless](https://homeschool.dev/class/production-ready-serverless/?utm_source=Yan&utm_medium=github) (4-week, self-paced workshop starting on Sep 1st)
-- [Production-Ready Serverless](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-88733037905?aff=Github) (2-day, intensive, online workshop, Oct 8th-9th)
+- [Production-Ready Serverless](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-124790671257?aff=Github) (2-day, intensive, online workshop, Jan 7th-8th)
 
 Video courses & books:
 - [AppSync Masterclass](https://appsyncmasterclass.com?utm_source=github)
