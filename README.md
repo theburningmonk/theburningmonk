@@ -10,7 +10,7 @@ How to reach me:
 - [YouTube channel](https://www.youtube.com/user/theburntmonk)
 
 Workshops:
-- [Production-Ready Serverless](https://www.eventbrite.co.uk/e/production-ready-serverless-2-days-incl-vat-tickets-169322045797) (2-day, intensive, online workshop, Dec 9th-10th 2021)
+- [Production-Ready Serverless](https://productionreadyserverless.com)
 
 Video courses & books:
 - [AppSync Masterclass](https://appsyncmasterclass.com?utm_source=github)
