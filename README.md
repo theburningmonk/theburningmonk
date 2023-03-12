@@ -13,6 +13,7 @@ Workshops:
 - [Production-Ready Serverless](https://productionreadyserverless.com)
 
 Video courses & books:
+- [Testing Serverless Architectures](https://testserverlessapps.com/)
 - [AppSync Masterclass](https://appsyncmasterclass.com?utm_source=github)
 - [Learn you some Lambda best practice for great good!](https://theburningmonk.thinkific.com/courses/learn-you-some-lambda?source=github)
 - [Complete guide to AWS Step Functions](https://theburningmonk.thinkific.com/courses/complete-guide-to-aws-step-functions?source=github)
